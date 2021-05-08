@@ -2,10 +2,12 @@ NotSafeMoon token launch giveaway promo.
 promo.js is the code used to randomly select the winner
 
 Winner of 1 Trillion Tokens
+
     tweetID = 1390735997944713216
     @Lovinglife4240
 
 Winner of 100 Billion Tokens
+
     tweetID = 139010035571164775
     @Roland21226830	
     0xDef7C414d97A8693B97F05bf67A91854493b215f
@@ -23,6 +25,7 @@ Winner of 100 Billion Tokens
 
 
 Winner of 100 Billion Tokens
+
     tweetID = 1390099986784952326
     @Pharo3xx
     
