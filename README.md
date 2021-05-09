@@ -16,7 +16,7 @@ Winner of 100 Billion Tokens
     tweetID = 1390766410369011718
     @BMiculinic
     0x9432F2a32E64d4196cDd6ab918c8D1956ec0aee5
-    Tx: 0x70bb323fb39398deeddef6b902f6ca79294e1b2b85f775b746eb45797fb03e62
+    Tx: 0x844bac139fcdca525e4eb6e0da37506b80aae0e17ea679d9bb595b7448fbacab
 
     tweetID = 1390272144156856324
     @CiocleaDoru
@@ -61,6 +61,8 @@ Winner of 10 Billion Tokens
 
     tweetID = 1390734546669228034
     @Cryptos21095968
+    0x0aDF2CA4FDfcA0312a729508E138A33DF0d2cdf8
+    Tx: 0xd6919129ad75f21625546a91ddd6e942d63c698b9d6095193c23c6777b8d0563 
 
     tweetID = 1390099459598520322
     @TheScram
