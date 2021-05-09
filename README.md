@@ -3,9 +3,6 @@ promo.js is the code used to randomly select the winner
 
 Winner of 1 Trillion Tokens
 
-    tweetID = 1390735997944713216
-    @Lovinglife4240
-    0x7580b745EF86B5Ef518A7b6576A1Ea9c2D05f761
 
 Winner of 100 Billion Tokens
 
@@ -40,7 +37,7 @@ Winner of 10 Billion Tokens
 
     tweetID = 1390812133613522946
     @Mindliberty1
-    Tx: 0xa4A856D3A9CB335350269A6a506ef603c534445a
+    0xa4A856D3A9CB335350269A6a506ef603c534445a
 
     tweetID = 1390745598345637888
     @gaybaby45079787
@@ -66,6 +63,16 @@ Winner of 10 Billion Tokens
     tweetID = 1390099459598520322
     @TheScram
 
+
+
+DISQUALIFIED
+    tweetID = 1390735997944713216
+    @Lovinglife4240
+    0x7580b745EF86B5Ef518A7b6576A1Ea9c2D05f761
+DISQUALIFIED
+
+DISQUALIFIED
     tweetID = 1390569054428024835
     @Sven49246911
     0x1B07117CD38E85e75EE93a1d65bbFdf9493f1f89
+DISQUALIFIED
