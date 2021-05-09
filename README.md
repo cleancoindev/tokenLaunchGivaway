@@ -5,6 +5,7 @@ Winner of 1 Trillion Tokens
 
     tweetID = 1390735997944713216
     @Lovinglife4240
+    0x7580b745EF86B5Ef518A7b6576A1Ea9c2D05f761
 
 Winner of 100 Billion Tokens
 
@@ -39,12 +40,15 @@ Winner of 10 Billion Tokens
 
     tweetID = 1390812133613522946
     @Mindliberty1
+    Tx: 0xa4A856D3A9CB335350269A6a506ef603c534445a
 
     tweetID = 1390745598345637888
     @gaybaby45079787
 
     tweetID = 1390243768184360961
     @NAlilean
+    0xA43DDB8e0b4874F7D762937fCB81a741d5C733BB
+    Tx: 0x3337871375a82ef81aa44d954648c3f33be60b2957974760eb98576665d76516 
 
     tweetID = 1390748745709596676
     @andyggonzalez11	
@@ -64,3 +68,4 @@ Winner of 10 Billion Tokens
 
     tweetID = 1390569054428024835
     @Sven49246911
+    0x1B07117CD38E85e75EE93a1d65bbFdf9493f1f89
