@@ -9,7 +9,7 @@ Winner of 1 Trillion Tokens
 Winner of 100 Billion Tokens
 
     tweetID = 139010035571164775
-    @Roland21226830	
+    @Roland21226830
     0xDef7C414d97A8693B97F05bf67A91854493b215f
     Tx 0x8011c33fb66d3a5e65268bb01693ad317bfacf6ab1f4a48f427f5ba097bcf66d
 
@@ -24,10 +24,11 @@ Winner of 100 Billion Tokens
     Tx: 0xef2cdb47e9ac373e8c1430f26fb3526fbefa16183c6aa58c8dae0271bcaeb2c2
 
 
-Winner of 100 Billion Tokens
+Winner of 10 Billion Tokens
 
     tweetID = 1390099986784952326
     @Pharo3xx
+    0x4b3c8dDDA11439B57cDe246D546EF7173C300D73
     
     tweetID = 1390155695886979074
     @AndreasTikara
