@@ -3,6 +3,8 @@ promo.js is the code used to randomly select the winner
 
 Winner of 1 Trillion Tokens
 
+    Winner was disqualified for having multiple entries and winning 3 times.
+    Pulling a new winner shortly.
 
 Winner of 100 Billion Tokens
 
